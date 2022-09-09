@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
  *
- * *main- Serves as the entry point for the program
+ * *main - Entry point for the program
  *
  * *
  *
- * *Return : By default returns zero if no errors otherwise retruens non-zero value.
+ * *Return: Always 0 (success)
  *
  * */
 
