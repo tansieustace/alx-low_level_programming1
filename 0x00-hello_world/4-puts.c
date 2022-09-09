@@ -1,13 +1,15 @@
 #include <stdio.h>
+
+
 /**
  *
- * *main - Entry point for the program
+ * main - Entry point for the program
  *
  * *
  *
- * *Return: Always 0 (success)
+ * Return: Always 0 (success)
  *
-  */
+ * */
 
 int main(void)
 
