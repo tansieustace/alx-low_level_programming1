@@ -3,13 +3,13 @@
 
 /**
  *
- * main - Entry point for the program
+ * main - Entry point
  *
  * *
  *
  * Return: Always 0 (success)
  *
- * */
+ */
 
 int main(void)
 
